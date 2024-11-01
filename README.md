@@ -14,6 +14,8 @@
 ## 🔥 Updates
 - `2024/10/29`: SSLPDL has been accepted at WACV 2025! 🎊
 
+## TODO
+
 <br>
 <details>
   <summary>
@@ -23,3 +25,17 @@ Numerical weather prediction (NWP) models are fundamental in meteorology for sim
 </details>
 
 ## Intro
+
+## 🔥 Getting Started
+### 1. Clone the code and prepare the environment
+- [] Preprint Paper
+- [] Code
+- [] Checkpoint
+
+## Contact
+joonha4670@gmail.com
+
+## Acknowledgements
+
+## Citation
+If you find SSLPDL useful for your research, welcome to this repo and cite our work using the following BibTeX:
