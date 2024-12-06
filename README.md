@@ -61,15 +61,15 @@ python main.py
 ```
 
 ## TODO
-- [] Preprint Paper
+- [ ] Preprint Paper
 - [X] Code
-- [] Checkpoint
+- [ ] Checkpoint
 
 ## Contact
 joonha4670@gmail.com
 
 ## Acknowledgements
-We would like to thank the contributors of the [FOMM](https://github.com/OpenGVLab/InternImage) repository for their open research and contributions.
+We would like to thank the contributors of the [InternImage](https://github.com/OpenGVLab/InternImage) repository for their open research and contributions.
 
 ## Citation
 If you find SSLPDL useful for your research, welcome to this repo and cite our work using the following BibTeX:
