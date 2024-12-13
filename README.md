@@ -12,6 +12,7 @@
 </div>
 
 ## 🔔 Updates
+- `2024/10/29`: We released the code and pre-print paper on [arXiv](https://arxiv.org/pdf/2412.05825)
 - `2024/10/29`: SSLPDL has been accepted at WACV 2025! 🎊
 
 <br>
@@ -61,15 +62,23 @@ python main.py
 ```
 
 ## TODO
-- [ ] Preprint Paper
+- [X] Preprint Paper
 - [X] Code
 - [ ] Checkpoint
 
 ## Contact
-joonha4670@gmail.com
+If you have any questions, please feel free to contact joonha4670@gmail.com or ssojungan@gmail.com
 
 ## Acknowledgements
 We would like to thank the contributors of the [InternImage](https://github.com/OpenGVLab/InternImage) repository for their open research and contributions.
 
 ## Citation
 If you find SSLPDL useful for your research, welcome to this repo and cite our work using the following BibTeX:
+```bibtex
+@article{lee2024self,
+  title   = {Self-Supervised Learning with Probabilistic Density Labeling for Rainfall Probability Estimation},
+  author  = {Lee, Junha and An, Sojung and You, Sujeong and Cho, Namik},
+  journal = {arXiv preprint arXiv:2412.05825},
+  year    = {2024}
+}
+```
